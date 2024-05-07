@@ -9,7 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.14",
+    "@notifee/react-native": "^7.8.2",
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-community/cli-platform-android": "^13.6.6",
+    "@react-native-community/netinfo": "^11.3.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "axios": "^1.6.8",
+    "expo-env-info": "^1.2.0",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
     "react-native": "0.73.6"
