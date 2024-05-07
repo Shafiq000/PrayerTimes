@@ -1,3 +1,4 @@
 <resources>
+    <string name="expo_splash_screen_resize_mode" translatable="false">native</string>
     <string name="app_name">PrayerTimes</string>
 </resources>
